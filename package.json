@@ -1,0 +1,17 @@
+{
+  "name": "@mediacurrent/storybook-config-gatsby",
+  "version": "0.0.1",
+  "description": "Storybook webpack config for Gatsby projects at Mediacurrent",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediacurrent/storybook-config-gatsby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mediacurrent/storybook-config-gatsby/issues"
+  },
+  "homepage": "https://github.com/mediacurrent/storybook-config-gatsby#readme"
+}
