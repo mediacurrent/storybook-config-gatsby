@@ -2,6 +2,9 @@
 
 The webpack config for using Storybook with Gatsby on Mediacurrent projects.
 
+## Install
+`npm install --save-dev @mediacurrent/storybook-config-gatsby`
+
 ## Usage 
 In your `.storybook/webpack.config.js` file, put the following:
 
