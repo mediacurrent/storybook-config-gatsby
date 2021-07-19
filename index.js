@@ -28,7 +28,7 @@ module.exports = (config) => {
   // Add SCSS Modules support.
   config.module.rules.push({
     test: /\.scss$/,
-    loaders: [
+    rules: [
       require.resolve('style-loader'),
       {
         loader: require.resolve('css-loader'),
